@@ -1,7 +1,6 @@
 DBUtils 1.1.1
 =============
 
-Short description:
 MS Access MDB tools: display dependecies, search objects in DB and code, etc.
 
 
@@ -11,18 +10,19 @@ Now, with only one click, the developers can see the hierarchical dependencies f
 
 According to Microsoft, viewing a list of objects that use a specific object will help you maintain the database and avoid errors related to missing record sources. Using DBUtils you can always check the dependencies before deleting a database object (table, query or view) to ensure that the object is not used somewhere else in your database relations and its deletion will broke the database integrity.
 
-Features: 
+Features:
+---------
 
-View Microsoft Access database properties 
-View tables, views and queries 
-View structure of tables 
-View, using a colored syntax editor, the SQL behind views and stored procedures 
-View the data from tables and views 
-View the source code of application associated with the database 
-Perform searches in database structures and source code files 
-View object dependencies: parents and child of tables, views, stored procedures 
-Compatible with MS Access 97, 2000+ databases 
-Easy to use - GUI is similar to Microsoft Access application 
+- View Microsoft Access database properties 
+- View tables, views and queries 
+- View structure of tables 
+- View, using a colored syntax editor, the SQL behind views and stored procedures 
+- View the data from tables and views 
+- View the source code of application associated with the database 
+- Perform searches in database structures and source code files 
+- View object dependencies: parents and child of tables, views, stored procedures 
+- Compatible with MS Access 97, 2000+ databases 
+- Easy to use - GUI is similar to Microsoft Access application 
 
 
 
