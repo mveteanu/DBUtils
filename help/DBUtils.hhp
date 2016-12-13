@@ -1,0 +1,14 @@
+[OPTIONS]
+Compatibility=1.0
+Compiled file=DBUtils.chm
+Default topic=Html\about.html
+Display compile progress=Yes
+Language=0x409 English (United States)
+Title=DBUtils
+
+
+[FILES]
+Html\about.html
+
+[INFOTYPES]
+

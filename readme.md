@@ -23,4 +23,4 @@ Features:
 - Compatible with MS Access 97, 2000+ databases 
 - Easy to use - GUI is similar to Microsoft Access application 
 
-![Screenshot](screenshot.png)
+![Screenshot](img/screenshot.png)
