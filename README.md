@@ -1,6 +1,8 @@
 DBUtils 1.1.1
 =============
 
+Last update: 2002 - 2003
+
 Browse and perform recursive searches in .MDB files without Microsoft Access
 
 Access objects dependencies was one of the most wanted feature of Microsoft Access environment. Until releasing this tool developers spent hundreds of hours checking "by hand" the relations between objects in the process of maintaining or normalizing the database.
