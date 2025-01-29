@@ -25,6 +25,26 @@ Features:
 - Compatible with MS Access 97, 2000+ databases 
 - Easy to use - GUI is similar to Microsoft Access application 
 
+Screenshots
+-----------
+
+Creating a new connection to the database and source code folder
+![Screenshot](img/new_connection.png)
+
+Viewing table structures
+![Screenshot](img/table_structure.png)
+
+
+Viewing code of stored procedures and views
+![Screenshot](img/sql_code.png)
+
+
+Viewing object dependencies
+![Screenshot](img/obj_depend.png)
+
+
+Viewing object dependencies
 ![Screenshot](img/screenshot.png)
+
 
 ![Analytics](https://ga-beacon.appspot.com/UA-2402433-6/beacon.en.html)
